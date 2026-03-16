@@ -465,25 +465,3 @@ strengthen FNP's commercial performance:</h4>
   <a href="YOUR_GITHUB_URL">GitHub</a>
 </div>
 ```
-
----
-
-## Three Things to Do Before Pushing
-
-**1. Take dashboard screenshots** and save in `powerbi/screenshots/` with these exact names:
-```
-page1_executive_overview.png
-page2_product_customer.png
-page3_operations_delivery.png
-monthly_revenue_trend.png
-occasion_revenue.png
-top_products.png
-customer_segments.png
-delivery_analysis.png
-```
-
-**2. Save FNP logo** as `docs/fnp_logo.png`
-
-**3. Create a simple pipeline architecture image** showing:
-```
-CSV → Bronze → Silver → Gold → Power BI
