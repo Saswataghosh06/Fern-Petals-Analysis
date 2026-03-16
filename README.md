@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="Docs/fnp_logo.gif" />
+  <img width="200px" src="Docs/fnp_logo.png" />
 </div>
 
 <h1 align="center">FNP Sales Performance Analysis</h1>
