@@ -166,7 +166,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
   <tr>
     <h2 align="center">Revenue by Occasion</h2>
     <td align="center">
-      <img width="900" src="Power BI/screenshots/occasion_revenue.png" />
+      <img width="900" src="Power BI/screenshots/occassion_revenue.png" />
     </td>
   </tr>
 </table>
