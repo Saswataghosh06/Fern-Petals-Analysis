@@ -45,19 +45,19 @@
   <tr>
     <td align="center">
       <h3>Executive Overview</h3>
-      <img width="900" src="powerbi/screenshots/page1_executive_overview.png" />
+      <img width="900" src="Power BI/screenshots/page1_executive_overview.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>Product & Customer Intelligence</h3>
-      <img width="900" src="powerbi/screenshots/page2_product_customer.png" />
+      <img width="900" src="Power BI/screenshots/page2_product_customer.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>Operations & Delivery</h3>
-      <img width="900" src="powerbi/screenshots/page3_operations_delivery.png" />
+      <img width="900" src="Power BI/screenshots/page3_operations_delivery.png" />
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 <h3 align="center">Monthly Revenue Analysis (Jan–Dec 2023)</h3>
 
 <div align="center">
-  <img width="900" src="powerbi/screenshots/monthly_revenue_trend.png" />
+  <img width="900" src="Power BI/screenshots/monthly_revenue_trend.png" />
 </div>
 
 <table align="center">
@@ -115,7 +115,7 @@
 <h2 align="center">Data Architecture — Medallion Pipeline</h2>
 
 <div align="center">
-  <img width="700" src="docs/pipeline_architecture.png" />
+  <img width="700" src="Docs/pipeline_architecture.png" />
 </div>
 
 <body>
@@ -166,7 +166,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
   <tr>
     <h2 align="center">Revenue by Occasion</h2>
     <td align="center">
-      <img width="900" src="powerbi/screenshots/occasion_revenue.png" />
+      <img width="900" src="Power BI/screenshots/occasion_revenue.png" />
     </td>
   </tr>
 </table>
@@ -216,7 +216,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
   <tr>
     <h2 align="center">Product Performance</h2>
     <td align="center">
-      <img width="900" src="powerbi/screenshots/top_products.png" />
+      <img width="900" src="Power BI/screenshots/top_products.png" />
     </td>
   </tr>
 </table>
@@ -256,7 +256,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
   <tr>
     <h2 align="center">Customer Intelligence</h2>
     <td align="center">
-      <img width="900" src="powerbi/screenshots/customer_segments.png" />
+      <img width="900" src="Power BI/screenshots/customer_segments.png" />
     </td>
   </tr>
 </table>
@@ -296,7 +296,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
   <tr>
     <h2 align="center">Operations & Delivery</h2>
     <td align="center">
-      <img width="900" src="powerbi/screenshots/delivery_analysis.png" />
+      <img width="900" src="Power BI/screenshots/delivery_analysis.png" />
     </td>
   </tr>
 </table>
