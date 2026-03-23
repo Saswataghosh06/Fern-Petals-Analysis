@@ -126,7 +126,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
 <table align="center">
   <tr>
     <td width="240" valign="top" align="center">
-      <h3>🥉 Bronze Layer</h3>
+      <h3> Bronze Layer</h3>
       Raw data ingested as-is from CSV files.
       All columns stored as NVARCHAR.
       No transformations. Audit layer only.
@@ -135,7 +135,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
       bronze.products, bronze.customers
     </td>
     <td width="240" valign="top" align="center">
-      <h3>🥈 Silver Layer</h3>
+      <h3> Silver Layer</h3>
       Cleaned and typed data. Derived columns
       engineered: delivery_days, order_hour,
       order_day, order_month, revenue.
@@ -145,7 +145,7 @@ with a total of 1,000 order records, 70 products, and 100 customers.
       silver.products, silver.customers
     </td>
     <td width="240" valign="top" align="center">
-      <h3>🥇 Gold Layer</h3>
+      <h3> Gold Layer</h3>
       Star schema for reporting. Dimension
       tables with surrogate keys. Two reporting
       views consolidating all KPIs for
