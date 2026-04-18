@@ -54,12 +54,6 @@
       <img width="900" src="Power BI/screenshots/page2_product_customer.png" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>Operations & Delivery</h3>
-      <img width="900" src="Power BI/screenshots/page3_operations_delivery.png" />
-    </td>
-  </tr>
 </table>
 
 ---
